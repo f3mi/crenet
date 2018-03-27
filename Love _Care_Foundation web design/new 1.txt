@@ -1,0 +1,25 @@
+Activity Title: PHP and Databases
+
+Activity Details; I'm currently on database 6hours learning on PHP PDO Basics
+  Today, i took tutorials from lynda on how to connect to a database usin PHP data object PDO.
+The content of the tutorials from lynda on PDO are as follow
+PDO connection to the database created
+Looping directly over a select query in PDO
+PDO fetch methods - fetch(), fetch all (), fetch column (), fetch object ()
+counting rows in PDo and returning them
+getting error messages
+sanitizing input with quote()
+and 
+i started pdo prepared statement- binding inputs and output values , bindparam(),bindvalue();
+
+As the tutorials were taken, i implemented the training myself to avoid abstract learning and easy understanding.
+
+
+For the side project, at the end of the day
+
+I duplicated my contact form for the and i added pdo to the replica of the form
+and then i created database source name
+I coonected to the database both the PDO and procedural
+I've been able to get date time stamp and how to store in the database
+I also did my research, and i've been able to store arrays into the database
+I was able to fetch the data from the database unto the admin page for the side page
